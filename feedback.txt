@@ -1,0 +1,10 @@
+K(30%): 100
+I(30%): 92
+C(10%): 100
+A(30%): 94
+95.8% of 90 - 86.22%
+
+Word frequency should be in a readable format.
+Remember to use print for prompts not println.
+Use functions to break up your code into individual parts so that it is easy to read and edit.
+Otherwise good work
